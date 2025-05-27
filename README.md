@@ -113,7 +113,9 @@ All models are trained with:
 ## Future Improvements
 
 -Feature engineering to capture seasonal patterns
+
 -Experiment with bidirectional LSTM layers
+
 -Implement attention mechanisms for better temporal focus
 
 
